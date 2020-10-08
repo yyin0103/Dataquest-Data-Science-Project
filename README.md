@@ -5,7 +5,7 @@ I decided to start my data analysis journey with the "Data Scientist in Python" 
 The courses includes:
 
 1. Data Analysis, Visualization, & Cleaning
-2. Numpy, Pandas, matplotlib, seaborn, basemap, and regular expressions (re)
+2. Numpy, Pandas, matplotlib, seaborn, basemap, scikit learn, and regular expressions (re)
 3. Linux Command Line
 4. git
 5. SQL
